@@ -1,0 +1,3 @@
+[submodule "pydata-book-src"]
+	path = pydata-book-src
+	url = https://github.com/pydata/pydata-book.git
