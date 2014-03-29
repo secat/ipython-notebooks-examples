@@ -32,3 +32,9 @@ python -m virtualenv vpydata
 source vpydata/bin/activate
 pip install -r requirements.txt
 ```
+
+## starting ipython notebook
+
+```shell
+ipython notebook --pylab=inline
+```
