@@ -29,6 +29,6 @@ brew install freetype
 
 ```shell
 python -m virtualenv vpydata
-source vpydata/activate
+source vpydata/bin/activate
 pip install -r requirements.txt
 ```
