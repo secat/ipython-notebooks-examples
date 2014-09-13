@@ -12,7 +12,7 @@ class QuoteProtocol(protocol.Protocol):
         self.transport.write(self.factory.quote)
 
     def dataReceived(self, data):
-        print("Received quote:{}".format(data))
+        print("Received quote: {}".format(data))
         self.transport.loseConnection()
 
 
@@ -24,12 +24,12 @@ class QuoteClientFactory(protocol.ClientFactory):
         return QuoteProtocol(self)
 
     def clientConnectionFailed(self, connector, reason):
-        print("connection failed:{}".format(
+        print("connection failed: {}".format(
             reason.getErrorMessage()))
         maybeStopReactor()
 
     def clientConnectionLost(self, connector, reason):
-        print("connection lost:{}".format(
+        print("connection lost: {}".format(
             reason.getErrorMessage()))
         maybeStopReactor()
 
