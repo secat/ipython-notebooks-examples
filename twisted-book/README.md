@@ -4,3 +4,5 @@ The following notebooks are a collection of exercices from the `Twisted` book.
 
 * [Chapter 1 - Testing Your Installation](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_1.ipynb)
 * [Chapter 2 - Building Basic Clients and Servers](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_2.ipynb)
+* [Chapter 3 - Writing Asynchronous Code with Deferreds](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_3.ipynb)
+* [Chapter 4 - Web Servers](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_4.ipynb)
