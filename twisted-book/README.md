@@ -8,3 +8,4 @@ The following notebooks are a collection of exercices from the `Twisted` book.
 * [Chapter 4 - Web Servers](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_4.ipynb)
 * [Chapter 5 - Web Clients](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_5.ipynb)
 * [Chapter 6 - Deploying Twisted Applications](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_6.ipynb)
+* [Chapter 7 - Logging](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_7.ipynb)
