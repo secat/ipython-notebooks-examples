@@ -11,3 +11,4 @@ The following notebooks are a collection of exercices from the `Twisted` book.
 * [Chapter 7 - Logging](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_7.ipynb)
 * [Chapter 9 - Authentication](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_9.ipynb)
 * [Chapter 10 - Threads and Subprocesses](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_10.ipynb)
+* [Chapter 11 - Testing](http://nbviewer.ipython.org/url/github.com/secat/ipython-notebooks-examples/raw/master/twisted-book/chapter_11.ipynb)
